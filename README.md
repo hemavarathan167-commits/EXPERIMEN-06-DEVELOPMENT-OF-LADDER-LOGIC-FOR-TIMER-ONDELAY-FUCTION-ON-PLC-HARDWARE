@@ -1,5 +1,8 @@
 ### EXPERIMENT-06-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
 
+# NAME : HEMAVARATHAN S
+# REG NO : 212225240050
+
 ### AIM 
 To develop and execute a ladder logic program using an ON-Delay Timer (TON) in Delta SV2 PLC, and observe its behavior on PLC hardware.
 ### Hardware & Software Required:
@@ -53,6 +56,9 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ###  HARDWARE SETUP 
 
+<img width="830" height="605" alt="image" src="https://github.com/user-attachments/assets/aeed15c2-c3d4-4075-876e-5b41c4760aba" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/68f10f17-0e45-4cc2-8ab8-4b19e96a2bc3" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/0c9f8870-7c89-441f-87d8-0d01f9890cf8" />
 
 
 
